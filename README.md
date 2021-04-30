@@ -1,4 +1,3 @@
-# hipsternet-master
 ## Hipsterent
 
 ***
