@@ -23,7 +23,7 @@ The package Hipsterent is mainly used to replicate the results of the report Dro
 
 
 #### Part B -- Upload directory to Google Drive
-1. Download the code from this website (https://github.com/wiseodd/hipsternet)
+1. Download the code from this website https://github.com/Jiaying-Yao/hipsternet)
 2. The name of the folder downloaded should be **hipsternet-master**
 3. Upload this folder to Google Drive
 4. Now the code should run properly
