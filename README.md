@@ -23,9 +23,9 @@ The package Hipsterent is mainly used to replicate the results of the report Dro
 
 
 #### Part B -- Upload directory to Google Drive
-1. Download the code from this website (https://github.com/Jiaying-Yao/hipsternet)
-2. The name of the folder downloaded should be **hipsternet-master**
-3. Upload this folder to Google Drive
+1. Download the **hipsternet-master** folder from this website (https://github.com/Jiaying-Yao/hipsternet_dropout_reproduce)
+2. Upload this folder to Google Drive
+3. Open the reproduce files **reproduce_models1**,**reproduce_models2**,**reproduce_models3**,**reproduce_models4** in Google colab
 4. Now the code should run properly
 
 Side note: The website below is helpful for creating conda environments in terminal
